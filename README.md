@@ -29,4 +29,4 @@ After downloading this repo and unzip it, please follow the next instructions to
 
     - Run
 
-Screen shot (https://raw.githubusercontent.com/hamidem/Angular-NewsApp/master/Capture.PNG)
+Screen shot (https://raw.githubusercontent.com/hamidem/Asp-Net-Core-Angular5/master/Capture.PNG)
