@@ -1,0 +1,42 @@
+<div class="my-sticky">
+    <div class="navbar">
+        <div class="subnav">
+            <a routerLink='/'><i class="glyphicon glyphicon-home"></i></a>
+        </div>
+        <div class="subnav">
+            <button class="subnavbtn">Actualités<i class="fa fa-caret-down"></i></button>
+            <div class="subnav-content">
+                <div *ngFor="let nav of actuNav; let i = index">
+                    <a routerLink='articles/1/{{i}}'>{{nav.mediaName}}</a>
+                </div>
+            </div>
+        </div>
+        <div class="subnav">
+            <button class="subnavbtn"> Science <i class="fa fa-caret-down"></i></button>
+            <div class="subnav-content">
+                <div *ngFor="let nav of scienceNav; let i = index">
+                    <a routerLink='articles/2/{{i}}'>{{nav.mediaName}}</a>
+                </div>
+            </div>
+        </div>
+        <div class="subnav">
+            <button class="subnavbtn"> Culture <i class="fa fa-caret-down"></i></button>
+            <div class="subnav-content">
+                <div *ngFor="let nav of cultureNav; let i = index">
+                    <a routerLink='articles/3/{{i}}'>{{nav.mediaName}}</a>
+                </div>
+            </div>
+        </div>
+        <div class="subnav">
+            <button class="subnavbtn"> Sport <i class="fa fa-caret-down"></i></button>
+            <div class="subnav-content">
+                <div *ngFor="let nav of sportNav; let i = index">
+                    <a routerLink='articles/4/{{i}}'>{{nav.mediaName}}</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<hr /><hr />
+
+

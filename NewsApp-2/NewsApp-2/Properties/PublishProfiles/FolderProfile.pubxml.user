@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Ce fichier est utilisé par le processus de publication/package de votre projet web. Vous pouvez personnaliser le comportement de ce processus
+en modifiant ce fichier MSBuild. Pour en savoir plus à ce sujet, visitez https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\PC\Desktop\Nouveau dossier\WebSite</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="wwwroot/3rdpartylicenses.txt">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/css/animate.css">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/css/bootstrap.css">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/css/classy-nav.min.css">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/css/custom-icon.css">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/css/font-awesome.min.css">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/css/magnific-popup.css">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/css/nice-select.min.css">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/classy.eot">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/classy.svg">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/classy.ttf">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/classy.woff">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/fontawesome-webfont.eot">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/fontawesome-webfont.svg">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/fontawesome-webfont.ttf">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/fontawesome-webfont.woff">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/fontawesome-webfont.woff2">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/FontAwesome.otf">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/icomoon.eot">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/icomoon.svg">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/icomoon.ttf">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/icomoon.woff">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/favicon.ico">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/assets/js/yaoumiScript.js">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/classy.4dfb9d1976a2838d7d01.eot">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/classy.6b961d058197d5c1a9c7.svg">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/favicon.ico">
+      <publishTime>10/08/2018 21:57:22</publishTime>
+    </File>
+    <File Include="wwwroot/fontawesome-webfont.674f50d287a8c48dc19b.eot">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/fontawesome-webfont.912ec66d7572ff821749.svg">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/fontawesome-webfont.af7ae505a9eed503f8b8.woff2">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/fontawesome-webfont.b06871f281fee6b241d6.ttf">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/fontawesome-webfont.fee66e712a8a08eef580.woff">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/glyphicons-halflings-regular.448c34a56d699c29117a.woff2">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/glyphicons-halflings-regular.89889688147bd7575d63.svg">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/glyphicons-halflings-regular.e18bbf611f2a2e43afc0.ttf">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/glyphicons-halflings-regular.f4769f9bdb7466be6508.eot">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/glyphicons-halflings-regular.fa2772327f55d8198301.woff">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/icomoon.6f761b4b3961f1f8c936.woff">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/icomoon.b8894aa4737a937fd86d.ttf">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/icomoon.c177a144e20e1af11f85.svg">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/icomoon.ecaaf335588f7668fd64.eot">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/index.html">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/inline.318b50c57b4eba3d437b.bundle.js">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/main.260bc54ece81bb1e845b.bundle.js">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/polyfills.bf95165a1d5098766b92.bundle.js">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+    <File Include="wwwroot/styles.bbd25a4fdcfe679402d4.bundle.css">
+      <publishTime>10/23/2018 23:59:39</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
